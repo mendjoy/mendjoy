@@ -1,9 +1,5 @@
-## Olá, Eu sou a Joyce Mendes
+## Olá, Eu sou a Joyce M Miranda
 
-- 👋 Hi, I’m @mendjoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 ##
 
 <div align="center">
