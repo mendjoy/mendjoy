@@ -1,10 +1,5 @@
 ## Olá, Eu sou a Joyce M Miranda
 
-##
-
-
-  
-  ## 
   
   <div> 
 
