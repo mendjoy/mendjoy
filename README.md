@@ -22,7 +22,3 @@
   <img align="center"  width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=mendjoy&background=191919&stroke=2e3d36&border=0dfc91&ring=0dfc91&fire=0dfc91&currStreakNum=039151&dates=039151&sideNums=039151&sideLabels=0dfc91&currStreakLabel=0dfc91" alt="lucas-abrahao" />
 </p>
   </div>
-  
-  
-
-   ![Snake animation](https://github.com/mendjoy/mendjoy/blob/output/github-contribution-grid-snake.svg)
