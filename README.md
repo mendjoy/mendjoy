@@ -11,11 +11,11 @@
   <div>
   
   <p>
-  <img align="left" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mendjoy&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="mendjoy" />
+  <img align="left" height="300px"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mendjoy&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="mendjoy" />
 </p>
 <!---GitHub Stats--->
 <p>&nbsp;
-  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=mendjoy&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="mendjoy" />
+  <img align="center" width="350px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mendjoy&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="mendjoy" />
 </p>
 <!---Streak Stats--->
 <p>&nbsp;
