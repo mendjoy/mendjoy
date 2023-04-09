@@ -1,13 +1,5 @@
 ## Olá, Eu sou a Joyce M Miranda
 
-  
-  <div> 
-
-  <a href = "mailto:mendjoys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mendjoy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  </div>
-  
   <div>
   
   <p>
@@ -21,6 +13,13 @@
 <p>&nbsp;
   <img align="center"  width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=mendjoy&background=191919&stroke=2e3d36&border=0dfc91&ring=0dfc91&fire=0dfc91&currStreakNum=039151&dates=039151&sideNums=039151&sideLabels=0dfc91&currStreakLabel=0dfc91" alt="mendjoy" />
 </p>
+  </div>
+  
+   <div> 
+
+  <a href = "mailto:joycemendes.jm79@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mendjoy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
   </div>
   
  #
